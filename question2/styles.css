@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #000000;
+}
+.main{
+    margin-top: 40px;
+    margin-left: 350px;
+    background-color: #f0f8ff;
+    width: 20rem;
+    border-radius: 3px;
+}
+h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.contant{
+    margin-left: 2rem;
+    /* gap: 0px; */
+    margin-bottom: 1rem;
+}
+.contant >*{
+    margin: 0px;
+    padding: 0px;
+}
+.sel{
+    padding-right: 11rem !important; 
+}
+.inp{
+    padding-right: 7rem;
+   border: 1px solid black;
+   padding-top: 0.3rem;
+   border-radius: 3px;
+}
+.con1{
+    padding-bottom: 1rem;
+}
+.atag{
+    background-color: rgb(10, 10, 11);
+    padding: 0.3rem 7.2rem ;
+    text-decoration: none;
+    color: #f0f8ff;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+.signupbot{
+    padding-bottom: 20px;
+}
+
